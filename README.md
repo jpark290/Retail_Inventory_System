@@ -28,39 +28,32 @@ Examples from the SRS:
 - **Security**: authentication/MFA, encryption in transit & at rest, RBAC
 - **Compliance**: GDPR and related regulations
 
-## Use Cases & Diagrams
+## Use Cases
 - Detailed **Use Cases** (inventory update, reporting, recruitment, approval, scheduling, etc.)
-- **Diagrams** included in the document:
-  - Use Case Diagram
-  - Swimlane Activity Diagram
-  - ERD / DFD
-  - State & Sequence
-  - Domain Class Diagram
-
-See `/docs/images/` for extracted PNG diagrams.
+- Additional diagrams (Use Case, Swimlane Activity, ERD/DFD, State, Sequence, Domain Class) are included in the full document.
 
 ## My Role (team project of 8)
 This was a **team project (8 members)**.  
 My contributions (as recorded in the SRS revision history):
 - Drafted and refined sections of **Nonfunctional Requirements (NFRs)**
 - Wrote and edited parts of the **System Features**
-- Contributed to **Use Case and Activity Diagram modeling**
+- Contributed to **Use Case scenario writing** (feedback on diagrams)
 - Assisted with document structure and editing
 
 Other parts of the document (e.g., generated domain code, stakeholder register) were group contributions.
 
+## Full Document
+The complete anonymized Software Requirements Specification (SRS) can be found here:
+
+📄 [Retail Inventory System – Anonymized SRS (PDF)](docs/Retail_Inventory_System_SRS.pdf)
+
 ## Repository Structure
 ```text
 docs/
-├─ SRS_TheAnswer_v1.0_anonymized.pdf # Full anonymized SRS document
-├─ images/ # Extracted diagrams (PNG)
-└─ appendix/
-├─ revision_history.md # De-identified version of revision table
-├─ stakeholder_register.md # Fictitious, AI-generated stakeholder data
-└─ domain_model_generated.txt # not executed / for illustration only
+└─ Retail_Inventory_System_SRS.pdf   # Full anonymized SRS document
 
 privacy/
-└─ NOTICE.md # Data source, anonymity, disclaimer
+└─ NOTICE.md                         # Data source, anonymity, disclaimer
 ```
 
 
