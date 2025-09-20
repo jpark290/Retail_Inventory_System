@@ -50,7 +50,7 @@ My contributions (as recorded in the SRS revision history):
 Other parts of the document (e.g., generated domain code, stakeholder register) were group contributions.
 
 ## Repository Structure
-text ```
+```text
 docs/
 ├─ SRS_TheAnswer_v1.0_anonymized.pdf # Full anonymized SRS document
 ├─ images/ # Extracted diagrams (PNG)
