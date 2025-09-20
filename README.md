@@ -57,7 +57,7 @@ docs/
 └─ appendix/
 ├─ revision_history.md # De-identified version of revision table
 ├─ stakeholder_register.md # Fictitious, AI-generated stakeholder data
-└─ domain_model_generated.txt # Gemini-generated code (not executed)
+└─ domain_model_generated.txt # not executed / for illustration only
 
 privacy/
 └─ NOTICE.md # Data source, anonymity, disclaimer
